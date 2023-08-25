@@ -119,6 +119,10 @@ span {
   text-decoration: none;
 }
 
+.page-is-active {
+  color: var(--ocean);
+}
+
 .page-is-active::after {
   display: inline-block;
   position: absolute;
